@@ -1,4 +1,4 @@
-# Flyengine downloads
+# Flyengine public downloads
 
 Installers for [Flyengine](https://github.com/VisualCoder-sudo/Flyengine-download/releases/latest), a 3D game engine and editor.
 This repository holds **only the finished installers**. There is no source code here.
